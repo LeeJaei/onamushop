@@ -1,0 +1,12 @@
+# .gitignore 예시 (Python + Django + PyCharm)
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.env
+.env
+venv/
+.venv/
+.idea/
+*.iml
+db.sqlite3
